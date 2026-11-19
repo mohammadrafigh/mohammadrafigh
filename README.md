@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-livid-three-70.vercel.app/api?username=mohammadrafigh&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mohammadrafigh&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-livid-three-70.vercel.app/api/top-langs/?username=mohammadrafigh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadrafigh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mohammadrafigh/mohammadrafigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
